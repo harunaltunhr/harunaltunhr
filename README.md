@@ -18,7 +18,7 @@
 | Graduated From                | Field                      | Years     |
 | ----------------------------- | -------------------------- | --------- |
 | Istanbul Technical University | Environment Engineer       | 2006-2011 |
-| **Company**                   | **Position**               | **Years** |  |
+| **Company**                   | **Position**               | **Years** |
 | Gorkem Mimarlik               | HR&Adminstrative Assistant | 2012-2013 |
 | Turk Telekom                  | Recruitment Specialist     | 2013-2014 |
 | Huawei                        | Senior HR Generalist       | 2014-2017 |
