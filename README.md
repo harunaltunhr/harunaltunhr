@@ -1,15 +1,15 @@
 # Markdown Home Page
 
-> Harun Altun
+## Harun Altun
 
 ---
 
 > Hello Again
 > I am Harun. Today **10/05/2020** and I _started_ a big journey;
 >
-> **Hacking-My-Future** (:stuck_out_tongue_winking_eye:)
+> **Hacking-My-Future** :)
 >
-> Let@s Continue
+> Let's Continue
 
 ---
 
@@ -37,6 +37,10 @@
 ### To Do List
 
 - [x] Moving Belgium
-- [ ] Reunification with Family
-- [X] Start to Learn Coding
+- [ ] Reunification with Family (**Missed so much**, **_so much_**, **so much**)
+- [x] Start to Learn Coding
 - [ ] Finding job ~~as HR~~ **as Software Developer**
+
+### Has Two Lovely Daughter
+
+![IMG-20200401-WA0016](https://user-images.githubusercontent.com/62182810/81512597-ee556880-9321-11ea-8057-f023eed2bfad.jpg)
