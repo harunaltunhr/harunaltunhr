@@ -31,3 +31,12 @@
 - Playing Football (Support **[Galatasaray S.K.](<https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)>)**)
 - Walking (For Hours!!!)
 - Learning something New (It doesn't matter useful or not :))
+
+---
+
+### To Do List
+
+- [x] Moving Belgium
+- [ ] Reunification with Family
+- [X] Start to Learn Coding
+- [ ] Finding job ~~as HR~~ **as Software Developer**
